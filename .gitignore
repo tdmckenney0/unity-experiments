@@ -8,6 +8,7 @@
 sysinfo.txt
 *.stackdump
 !*.*.meta
+*.meta
  
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
